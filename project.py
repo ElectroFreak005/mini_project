@@ -2,10 +2,6 @@ from mimetypes import init
 
 import collections
 
-#change to check git push
-#change to check git push
-#change to check git push
-
 # BFS algorithm
 def bfs(graph, root, value):
 
